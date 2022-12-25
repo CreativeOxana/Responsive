@@ -100,12 +100,16 @@ a {
   margin-bottom: 50px;
 }
 
-@media (max-wight: 900px) {
+@media (max-wight: 576px) {
  h1 {
   font-size: 48px;
   line-height: 1.5;
    }
-  h2 {
+ h2 {
   font-size: 36px;
+  text-align: center;
+  }
+ p {
+  text-align: center;
   }
 }
