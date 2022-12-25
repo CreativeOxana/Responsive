@@ -57,14 +57,14 @@ a {
   text-transform: capitalize;
 }
 
+.navigation-links: hover {
+  color: white;
+}
+
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
-}
-
-.contact-link: hover {
- color: light-yellow; 
 }
 
 .about-link {
